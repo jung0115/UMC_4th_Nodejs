@@ -1,0 +1,22 @@
+{
+  "name": "umc_4th_nodejs",
+  "version": "1.0.0",
+  "description": "➡️ Node.js RESTful API 실습  \r 📅 2023.05.20.토 ~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jung0115/UMC_4th_Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jung0115/UMC_4th_Nodejs/issues"
+  },
+  "homepage": "https://github.com/jung0115/UMC_4th_Nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
