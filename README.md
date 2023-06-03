@@ -5,7 +5,7 @@
 ---
   
 ### 1️⃣ DB ERD 생성
-<img width="400px" src="https://github.com/jung0115/umc-nodejs-api/assets/76805879/9cd3bfd0-39cf-4355-b875-ab4eab5361a0" />
+<img src="https://github.com/jung0115/UMC_4th_Nodejs/assets/76805879/c6c23527-f8cf-4cee-8953-a615e19ebf98" />
   
 ### 2️⃣ Node.js 세팅
 ```
