@@ -12,14 +12,19 @@
 npm init
 ```
 : `package.json` 파일 생성  
-  
+<br />
 ```
 npm install
 ```
 : 의존성 패키지 생성  
-  
+<br />
 ```
 npm i express
 ```
 : express 모듈 설치  
-  
+<br />
+```
+npm install nodemon --save-dev
+```
+: nodemon 설치  
+<br />
