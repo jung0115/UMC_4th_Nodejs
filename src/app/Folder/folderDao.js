@@ -4,8 +4,19 @@ async function createFolder(connection, insertFolderInfoParams) {
     VALUES (?, ?);`;
 
   const insertFolderInfoRow = await connection.query(
-    insertFolderInfoQuery,
     insertFolderInfoParams
+  );
+
+  return insertFolderInfoRow;
+}
+
+async function getFolder(connection, selectFolderInfoParams) {
+  const selectFolderInfoQuery = `
+    SELECT *
+    VALUES (?, ?);`;
+
+  const selectFolderInfoRow = await connection.query(
+    selectFolderInfoParams
   );
 
   return insertFolderInfoRow;
